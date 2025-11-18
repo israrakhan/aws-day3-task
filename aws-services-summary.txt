@@ -1,0 +1,12 @@
+ Task 1: AWS Services Summary Notes
+Instructions:
+	1.	Create a new file named aws-services-summary.txt
+	2.	Write short explanations of the 5 AWS services covered in class:
+
+Service      Use                                Example
+---------------------------------------------------------------
+EC2          To create virtual servers          Hosting a web application
+S3           To store files                     Storing image backups
+IAM          To manage users & permissions      Giving limited access to a developer
+Route 53     To manage domain and DNS           Connecting www.myapp.com to EC2
+Lightsail    Simple VPS hosting platform        Hosting a WordPress blog
